@@ -1,0 +1,42 @@
+#bgCont{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    height:170vh;
+    background-size: cover;
+    padding:10%;
+}
+.menuCardContainer{
+    border:7px solid rgb(69, 27, 27);
+    background-color:rgb(197, 128, 68);
+    padding:20px;
+    opacity: 0.9;
+}
+h1{
+    font-family: "lucid";
+    font-size:80px;
+    font-style: italic;
+    color: white;
+    margin:10px;
+}
+table,th,td{
+    border: 5px solid rgb(197, 128, 68);
+    background-color:black;
+    border-collapse: collapse;
+    color:white;
+    padding: 20px;
+    font-family:"Franklin";
+    font-style: italic;
+}
+.image{
+    height:200px;
+    width:auto;
+    margin-left:20px;
+    border-radius: 200px;
+}
+.gif{
+    border-radius:60px;
+    height:250px;
+    width:250px;
+    margin-left:40px;
+    margin-top:25px;
+}
